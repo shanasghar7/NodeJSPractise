@@ -37,3 +37,38 @@ npm i dotenv
 
 // Install for parsing
 npm i body-parser
+
+// Install Express
+npm i express-validator
+
+// Install ALL
+npm install
+
+
+// GIT
+
+git init
+
+// Only First Time
+git config --global user.email "shanasghar7@gmail.com"
+git config --global user.name "Shan"
+
+git add .
+git commit -m "created repository"
+
+// Only First Time
+git remote add origin https://github.com/shanasghar7/NodeJSPractise.git
+
+git push -u origin master
+git push
+
+git pull
+
+// Switch Branch
+git checkout Shan
+
+// Clones to project files to local
+git clone https://github.com/shanasghar7/NodeJSPractise.git
+
+// Get Info about branches etc
+git status
