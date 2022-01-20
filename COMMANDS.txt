@@ -1,0 +1,39 @@
+--Check Node Version
+node -v
+
+--Start Node JS
+node
+
+--Create File
+NUL > app.js
+
+--Run File
+node app.js
+
+--Initialize NPM
+npm init
+
+--Install NodeMon for saving changes on server
+npm i nodemon
+
+
+npm run dev
+
+
+nodemon app.js
+
+
+-- Install Express Server
+npm install express
+
+-- Install Middleware
+npm i morgan
+
+-- Install for Database Connectivity
+npm i mongoose
+
+// Install for .env file global variable declaration
+npm i dotenv
+
+// Install for parsing
+npm i body-parser
