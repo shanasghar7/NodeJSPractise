@@ -38,7 +38,7 @@ npm i dotenv
 // Install for parsing
 npm i body-parser
 
-// Install Express
+// Install Express for validations
 npm i express-validator
 
 // Install ALL
@@ -55,6 +55,7 @@ git config --global user.name "Shan"
 
 git add .
 git commit -m "created repository"
+git commit -m "updated repository"
 
 // Only First Time
 git remote add origin https://github.com/shanasghar7/NodeJSPractise.git
